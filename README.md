@@ -30,4 +30,4 @@ View report:
 npx playwright show-report
 
 ## Author
-Surendra (Suri)
+Surendra Vallapu
